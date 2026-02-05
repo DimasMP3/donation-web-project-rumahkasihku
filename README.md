@@ -7,7 +7,7 @@ Rumah Kasihku is a charity website for an orphanage built with modern web techno
 - **Next.js**: React framework for server-rendered applications,
 - **React**: JavaScript library for building user interfaces,
 - **TypeScript**: Typed JavaScript for enhanced code quality,
-- **Tailwind CSS**: Utility-first CSS framework
+- **Tailwind CSS**: Utility-first CSS framework,
 - **Framer Motion**: Animation library for React
 - **Drizzle ORM**: TypeScript ORM for SQL databases
 - **Supabase**: PostgreSQL database provider
