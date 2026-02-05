@@ -3,7 +3,7 @@
 ## Description.
 Rumah Kasihku is a charity website for an orphanage built with modern web technologies. The platform provides information about the orphanage, showcases activities through a gallery, and features a donation system integrated with Midtrans payment gateway to facilitate financial support for the children.
 
-## Technologies Used
+## Technologies Used.
 - **Next.js**: React framework for server-rendered applications
 - **React**: JavaScript library for building user interfaces
 - **TypeScript**: Typed JavaScript for enhanced code quality
